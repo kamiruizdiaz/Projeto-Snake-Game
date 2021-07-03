@@ -1,0 +1,11 @@
+body {
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(252, 222, 192);
+  color: rgb(125, 90, 80);
+  font-family: 'Bubblegum Sans', cursive;
+}
